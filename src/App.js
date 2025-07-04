@@ -48,9 +48,19 @@ export default function App() {
             image: "/images/late_project_thumb.png"
         },
         {
+            title: "개인 JAVA 프로젝트 [minichat.co.kr]",
+            title_ja: "일본어영역 [minichat.co.kr]",
+            url: "https://minichat.co.kr",
+            description: {
+                ko: "JSP + thymelaef 기반 실시간 양방향 채팅 시스템 구현",
+                ja: "일본어영역"
+            },
+            image: "/images/minichat_thumb.png"
+        },
+        {
             title: "개인 PHP 프로젝트 [took.dothome.co.kr]",
             title_ja: "個人PHPプロジェクト [took.dothome.co.kr]",
-            url: "http://took.dothome.co.kr",
+            url: "https://took.dothome.co.kr",
             description: {
                 ko: "PHP 기반 게시판 + SNS 로그인 기능 구현",
                 ja: "PHPベースの掲示板＋SNSログイン機能の実装"
